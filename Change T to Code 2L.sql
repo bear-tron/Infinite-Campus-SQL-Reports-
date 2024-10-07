@@ -3,7 +3,7 @@ This should only affect tardies and not absences
  WARNING: THIS IS A DESTRUCTIVE ACTION. DO NOT PROCEED WITHOUT TESTING IN YOUR SANDBOX/TRAINING INSTANCE. 
 
 Original Author: Karen Jimeson (karen.jimeson@dpi.nc.gov)
-Original Query:
+Original Query(updated unexcused absences from A to 2A):
 
 UPDATE
 a
